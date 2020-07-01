@@ -1,7 +1,0 @@
-
-    This is a txt file
-
-    Second: edited at github web server
-
-    into branch-child: draft
-
