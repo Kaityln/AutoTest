@@ -3,14 +3,14 @@
  * @FileName: DependTest
  * @PackageName: com.course.testng
  * @Date: 2020/7/3 13:58
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng;
 
 import org.testng.annotations.Test;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/3 13:58
  * @Introduction: 依赖测试
  */

@@ -3,14 +3,14 @@
  * @FileName: LoginTest
  * @PackageName: com.course.testng.suite
  * @Date: 2020/7/1 17:20
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng.suite;
 
 import org.testng.annotations.Test;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/1 17:20
  * @Introduction:
  */

@@ -3,14 +3,14 @@
  * @FileName: GroupsOnClass1
  * @PackageName: com.course.testng.groups
  * @Date: 2020/7/3 13:16
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng.groups;
 
 import org.testng.annotations.Test;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/3 13:16
  * @Introduction: 类分组测试
  */

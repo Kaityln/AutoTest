@@ -3,14 +3,14 @@
  * @FileName: BasicAnnotation
  * @PackageName: com.course.testng
  * @Date: 2020/7/1 16:12
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng;
 
 import org.testng.annotations.*;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/1 16:12
  * @Introduction:
  */

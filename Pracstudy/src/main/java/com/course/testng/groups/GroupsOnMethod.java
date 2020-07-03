@@ -3,7 +3,7 @@
  * @FileName: GroupsOnMethod
  * @PackageName: com.course.testng.groups
  * @Date: 2020/7/3 11:09
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng.groups;
 
@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/3 11:09
  * @Introduction: 测试方法分组测试
  */

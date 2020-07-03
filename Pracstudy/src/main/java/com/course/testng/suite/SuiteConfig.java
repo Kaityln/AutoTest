@@ -3,7 +3,7 @@
  * @FileName: SuiteConfig
  * @PackageName: com.course.testng.suite
  * @Date: 2020/7/1 17:19
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng.suite;
 
@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/1 17:19
  * @Introduction: 用于所有测试套件的配置
  */

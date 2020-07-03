@@ -3,14 +3,14 @@
  * @FileName: IgnoreTest
  * @PackageName: com.course.testng
  * @Date: 2020/7/3 11:03
- * @Author： 郑自秀
+ * @Author： Kaityln
  */
 package com.course.testng;
 
 import org.testng.annotations.Test;
 
 /**
- * @Authror: Zhengzixiu
+ * @Authror: Kaityln
  * @Date: 2020/7/3 11:03
  * @Introduction: 忽略测试
  */
